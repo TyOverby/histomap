@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="lines_and_dates.svg">
+   sodipodi:docname="histomap.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.11313708"
-     inkscape:cx="670.48937"
-     inkscape:cy="10081.773"
+     inkscape:zoom="0.32"
+     inkscape:cx="1796.1034"
+     inkscape:cy="17680.92"
      inkscape:document-units="px"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="2460"
      inkscape:window-height="1310"
@@ -52,12 +52,11 @@
      inkscape:label="Background Image"
      inkscape:groupmode="layer"
      id="layer1"
-     style="opacity:0.34020619;display:inline"
-     transform="translate(0,18947.638)"
-     sodipodi:insensitive="true">
+     style="display:inline"
+     transform="translate(0,18947.638)">
     <image
-       y="-18906.494"
-       x="-5.5714321"
+       y="-18644.494"
+       x="-9.5714321"
        id="image3213"
        xlink:href="file:///home/ty/Pictures/histomap/map_aligned_cropped.jpg"
        height="19952"
@@ -489,6 +488,18 @@
        d="m 460.06165,19385.808 3236.52865,0"
        id="path3219-06"
        inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Fills"
+     style="opacity:0.68867925">
+    <path
+       style="fill:#ff0000;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 597.7262,900.38276 409.901,1.12253 41.5661,209.19931 5.4572,210.574 143.3381,211.7312 104.9711,212.3221 -81.7079,211.2742 -240.49236,213.7915 -96.8614,204.9527 303.09596,213.7915 102.0125,213.7914 40.1406,209.3721 -68.1351,213.7915 -107.9099,191.6944 -76.1435,229.1197 -74.5319,210.6822 -60.46794,201.4635 25.00875,214.5317 -87.68639,216.7414 -40.17764,-214.1518 -64.48444,-211.9421 -40.58053,-205.123 L 716.959,3649.9504 715.9456,3432.709 592.20193,3222.7866 z"
+       id="path6116"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccccccccc" />
   </g>
   <g
      inkscape:groupmode="layer"
